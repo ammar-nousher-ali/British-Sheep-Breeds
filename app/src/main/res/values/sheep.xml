@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="url">
+        <item>http://proofandconcept.co.uk/bsb/data/icons/badger_welsh_mountain.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/balwen.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/beltex.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/berrichon_du_cher.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/beulah_speckled_face.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/black_welsh_mountain.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/blackface.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/bleu_du_maine.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/blue_faced_leicester.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/border_leicester.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/boreray.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/brecknock_hill_cheviot.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/british_milksheep.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/british_rouge.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/cambridge.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/castlemilk_moorit.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/charollais.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/cheviot.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/clun_forest.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/cotswold.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/dalesbred.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/derbyshire_gritstone.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/devon_closewool.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/devon_cornwall_longwool.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/dorset_down.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/dorset_horn_poll_dorset.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/exmoor_horn.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/friesland.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/greyface_dartmoor.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/halfbred-scotch.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/halfbred-welsh.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/hampshire_down.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/hebridean.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/herdwick.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/hill_radnor.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/ile_de_france.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/jacob.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/kerry_hill.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/leicester_longwool.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/lincoln_longwool.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/llanwenog.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/lleyn.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/lonk.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/manx_loaghtan.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/masham.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/mule-north_of_england.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/mule-scotch.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/mule-welsh.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/norfolk_horn.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/north_country_cheviot.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/north_ronaldsay.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/oxford_down.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/portland.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/romney.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/rough_fell.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/ryeland.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/scottish_greyface.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/shetland.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/shetland_coloured.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/shropshire.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/soay.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/south_wales_mountain.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/southdown.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/suffolk.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/swaledale.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/teeswater.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/texel.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/vendeen.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/welsh_hill_speckled_face.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/welsh_mountain.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/wensleydale.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/white_faced_woodland.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/whiteface_dartmoor.png</item>
+        <item>http://proofandconcept.co.uk/bsb/data/icons/zwartbles.png</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Badger Welsh Mountain</item>
+        <item>Balwen</item>
+        <item>Beltex</item>
+        <item>Berrichon Du Cher</item>
+        <item>Beulah Speckled Face</item>
+        <item>Black Welsh Mountain</item>
+        <item>Blackface</item>
+        <item>Bleu Du Maine</item>
+        <item>Blue Faced Leicester</item>
+        <item>Border Leicester</item>
+        <item>Boreray</item>
+        <item>Brecknock Hill Cheviot</item>
+        <item>British Milksheep</item>
+        <item>British Rouge</item>
+        <item>Cambridge</item>
+        <item>Castlemilk Moorit</item>
+        <item>Charollais</item>
+        <item>Cheviot</item>
+        <item>Clun Forest</item>
+        <item>Cotswold</item>
+        <item>Dalesbred</item>
+        <item>Derbyshire Gritstone</item>
+        <item>Devon Closewool</item>
+        <item>Devon/Cornwall Longwool</item>
+        <item>Dorset Down</item>
+        <item>Dorset Horn/Poll Dorset</item>
+        <item>Exmoor Horn</item>
+        <item>Friesland</item>
+        <item>Greyface Dartmoor</item>
+        <item>Halfbred-Scotch</item>
+        <item>Halfbred-Welsh</item>
+        <item>Hampshire Down</item>
+        <item>Hebridean</item>
+        <item>Herdwick</item>
+        <item>Hill Radnor</item>
+        <item>Ile de France</item>
+        <item>Jacob</item>
+        <item>Kerry Hill</item>
+        <item>Leicester Longwool</item>
+        <item>Lincoln Longwool</item>
+        <item>Llanwenog</item>
+        <item>Lleyn</item>
+        <item>Lonk</item>
+        <item>Manx Loaghtan</item>
+        <item>Masham</item>
+        <item>Mule-North of England</item>
+        <item>Mule-Scotch</item>
+        <item>Mule-Welsh</item>
+        <item>Norfolk Horn</item>
+        <item>North Country Cheviot</item>
+        <item>North Ronaldsay</item>
+        <item>Oxford Down</item>
+        <item>Portland</item>
+        <item>Romney</item>
+        <item>Rough Fell</item>
+        <item>Ryeland</item>
+        <item>Scottish Greyface</item>
+        <item>Shetland</item>
+        <item>Shetland Coloured</item>
+        <item>Shropshire</item>
+        <item>Soay</item>
+        <item>South Wales Mountain</item>
+        <item>Southdown</item>
+        <item>Suffolk</item>
+        <item>Swaledale</item>
+        <item>Teeswater</item>
+        <item>Texel</item>
+        <item>Vendeen</item>
+        <item>Welsh Hill Speckled Face</item>
+        <item>Welsh Mountain</item>
+        <item>Wensleydale</item>
+        <item>White Faced Woodland</item>
+        <item>Whiteface Dartmoor</item>
+        <item>Zwartbles</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>Naturally Coloured</item>
+        <item>Naturally Coloured</item>
+        <item>Medium</item>
+        <item>Fine</item>
+        <item>Hill</item>
+        <item>Naturally Coloured</item>
+        <item>Mountain</item>
+        <item>Medium</item>
+        <item>Lustre</item>
+        <item>Medium</item>
+        <item>Naturally Coloured</item>
+        <item>Hill</item>
+        <item>Medium</item>
+        <item>Fine</item>
+        <item>Medium</item>
+        <item>Naturally Coloured</item>
+        <item>Fine</item>
+        <item>Hill</item>
+        <item>Fine</item>
+        <item>Lustre</item>
+        <item>Mountain</item>
+        <item>Hill</item>
+        <item>Medium</item>
+        <item>Lustre</item>
+        <item>Fine</item>
+        <item>Fine</item>
+        <item>Hill</item>
+        <item>Medium</item>
+        <item>Lustre</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Fine</item>
+        <item>Naturally Coloured</item>
+        <item>Naturally Coloured</item>
+        <item>Hill</item>
+        <item>Fine</item>
+        <item>Naturally Coloured</item>
+        <item>Hill</item>
+        <item>Lustre</item>
+        <item>Lustre</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Hill</item>
+        <item>Naturally Coloured</item>
+        <item>Cross</item>
+        <item>Cross</item>
+        <item>Cross</item>
+        <item>Cross</item>
+        <item>Fine</item>
+        <item>Hill</item>
+        <item>Naturally Coloured</item>
+        <item>Fine</item>
+        <item>Fine</item>
+        <item>Medium</item>
+        <item>Mountain</item>
+        <item>Fine</item>
+        <item>Cross</item>
+        <item>Hill</item>
+        <item>Naturally Coloured</item>
+        <item>Fine</item>
+        <item>Naturally Coloured</item>
+        <item>Mountain</item>
+        <item>Fine</item>
+        <item>Fine</item>
+        <item>Mountain</item>
+        <item>Lustre</item>
+        <item>Medium</item>
+        <item>Fine</item>
+        <item>Hill</item>
+        <item>Mountain</item>
+        <item>Lustre</item>
+        <item>Hill</item>
+        <item>Lustre</item>
+        <item>Naturally Coloured</item>
+    </string-array>
+
+    <string-array name="established">
+        <item>1976</item>
+        <item>1985</item>
+        <item>1991</item>
+        <item>1986</item>
+        <item>1958</item>
+        <item>1920</item>
+        <item>1901</item>
+        <item>1978</item>
+        <item>1963</item>
+        <item>1896</item>
+        <item>2003</item>
+        <item>1970</item>
+        <item>1970</item>
+        <item>1986</item>
+        <item>1979</item>
+        <item>1975</item>
+        <item>1977</item>
+        <item>1890</item>
+        <item>1925</item>
+        <item>1891</item>
+        <item>1929</item>
+        <item>1906</item>
+        <item>1923</item>
+        <item>1977</item>
+        <item>1906</item>
+        <item>1891</item>
+        <item>1906</item>
+        <item>1980</item>
+        <item>1909</item>
+        <item>1983</item>
+        <item>1955</item>
+        <item>1889</item>
+        <item>1975</item>
+        <item>1916</item>
+        <item>1949</item>
+        <item>1978</item>
+        <item>1969</item>
+        <item>1899</item>
+        <item>1893</item>
+        <item>1891</item>
+        <item>1957</item>
+        <item>1971</item>
+        <item>1905</item>
+        <item>1976</item>
+        <item>1986</item>
+        <item>1980</item>
+        <item>1986</item>
+        <item>1978</item>
+        <item>1994</item>
+        <item>1945</item>
+        <item>1997</item>
+        <item>1889</item>
+        <item>1993</item>
+        <item>1895</item>
+        <item>1926</item>
+        <item>1903</item>
+        <item>N/A</item>
+        <item>1927</item>
+        <item>1927</item>
+        <item>1882</item>
+        <item>2000</item>
+        <item>1948</item>
+        <item>1893</item>
+        <item>1887</item>
+        <item>1920</item>
+        <item>1949</item>
+        <item>1974</item>
+        <item>1982</item>
+        <item>1969</item>
+        <item>1902</item>
+        <item>1890</item>
+        <item>1986</item>
+        <item>1950</item>
+        <item>1995</item>
+    </string-array>
+
+    <string-array name="handle">
+        <item>Medium / Harsh</item>
+        <item>Soft / Harsh</item>
+        <item>Soft / Medium</item>
+        <item>Soft</item>
+        <item>Soft / Medium</item>
+        <item>Soft</item>
+        <item>Medium / Harsh</item>
+        <item>Medium / Soft</item>
+        <item>Lustrous and Silky</item>
+        <item>Medium / Soft</item>
+        <item>Soft / Harsh</item>
+        <item>Soft</item>
+        <item>Medium / Soft</item>
+        <item>Soft</item>
+        <item>Soft / Medium</item>
+        <item>Very Soft / Silky</item>
+        <item>Very Soft</item>
+        <item>Soft</item>
+        <item>Very Soft</item>
+        <item>Smooth / Lustrous</item>
+        <item>Medium / Harsh</item>
+        <item>Soft / Medium</item>
+        <item>Crisp / Soft</item>
+        <item>Medium</item>
+        <item>Soft</item>
+        <item>Crisp / Soft</item>
+        <item>Medium / Crisp</item>
+        <item>Medium / Soft</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Soft</item>
+        <item>Soft / Harsh</item>
+        <item>Harsh</item>
+        <item>Soft / Medium</item>
+        <item>Soft</item>
+        <item>Soft / Medium</item>
+        <item>Medium / Soft</item>
+        <item>Lustrous</item>
+        <item>Lustrous</item>
+        <item>Soft / Medium</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Soft</item>
+        <item>Soft</item>
+        <item>Medium / Soft</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Very Soft</item>
+        <item>Soft / Harsh</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Soft</item>
+        <item>Medium</item>
+        <item>Soft</item>
+        <item>Medium</item>
+        <item>Very Soft</item>
+        <item>Very Soft</item>
+        <item>Soft</item>
+        <item>Very Soft</item>
+        <item>Medium</item>
+        <item>Very Soft</item>
+        <item>Soft</item>
+        <item>Medium</item>
+        <item>Lustrous</item>
+        <item>Medium</item>
+        <item>Soft</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Lustrous</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Soft / Medium</item>
+    </string-array>
+
+    <string-array name="colour">
+        <item>Cream or Black</item>
+        <item>Black / Dark Grey</item>
+        <item>White / Creamy</item>
+        <item>White</item>
+        <item>White / Creamy</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White</item>
+        <item>Grey/Black</item>
+        <item>White</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>Brown</item>
+        <item>White / Creamy</item>
+        <item>White</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White</item>
+        <item>White</item>
+        <item>White</item>
+        <item>White / Creamy</item>
+        <item>White</item>
+        <item>White</item>
+        <item>White</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Black / Grey</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>Brown / White</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White</item>
+        <item>White</item>
+        <item>White</item>
+        <item>Brown</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White</item>
+        <item>Grey / Black</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White</item>
+        <item>White</item>
+        <item>White / Creamy</item>
+        <item>White</item>
+        <item>Black / Brown</item>
+        <item>White / Creamy</item>
+        <item>Brown</item>
+        <item>White</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White</item>
+        <item>White / Creamy</item>
+        <item>White / Creamy</item>
+        <item>White</item>
+        <item>White / Creamy</item>
+        <item>White</item>
+        <item>White / Creamy</item>
+        <item>White</item>
+        <item>White / Creamy</item>
+        <item>Black / Brown</item>
+    </string-array>
+
+    <string-array name="fleece">
+        <item>1.5 - 2 kg</item>
+        <item>1.25 - 1.75 kg</item>
+        <item>2.5 - 3 kg</item>
+        <item>2 - 2.5 kg</item>
+        <item>1.75 - 2.5 kg</item>
+        <item>1.25 - 2 kg</item>
+        <item>2 - 3 kg</item>
+        <item>2.5 - 4 kg</item>
+        <item>1 - 2 kg</item>
+        <item>3 - 5 kg</item>
+        <item>1 - 2 kg</item>
+        <item>2 - 3 kg</item>
+        <item>2.75 - 4 kg</item>
+        <item>1.5 - 2 kg</item>
+        <item>2 - 3 kg</item>
+        <item>1 - 2 kg</item>
+        <item>1.5 - 2 kg</item>
+        <item>2 - 3 kg</item>
+        <item>2 - 2.5 kg</item>
+        <item>4 - 7 kg</item>
+        <item>1.5 - 2.75 kg</item>
+        <item>2 - 3 kg</item>
+        <item>2-5 - 3.5 kg</item>
+        <item>6 - 9 kg</item>
+        <item>2.25 - 3 kg</item>
+        <item>2.25 - 3 kg</item>
+        <item>2 - 3 kg</item>
+        <item>2.75 - 3.5 kg</item>
+        <item>5.5 - 8 kg</item>
+        <item>3 - 4 kg</item>
+        <item>2.5 - 3.5 kg</item>
+        <item>2.25 - 3 kg</item>
+        <item>1.25 - 2.25 kg</item>
+        <item>1.5 - 2 kg</item>
+        <item>1.5 - 2 kg</item>
+        <item>2.75 - 4 kg</item>
+        <item>1.75 - 2.75 kg</item>
+        <item>2 - 3 kg</item>
+        <item>5 - 7 kg</item>
+        <item>5 - 8 kg</item>
+        <item>2 - 2.5 kg</item>
+        <item>2.5 - 3.5 kg</item>
+        <item>2 - 3 kg</item>
+        <item>1.5 - 2 kg</item>
+        <item>3 - 4.5 kg</item>
+        <item>2.75 - 3.75 kg</item>
+        <item>2.75 - 4 kg</item>
+        <item>2.5 - 3.5 kg</item>
+        <item>1.75 - 2.25 kg</item>
+        <item>2 - 3 kg</item>
+        <item>1.5 - 2.5 kg</item>
+        <item>2.5 - 3.5 kg</item>
+        <item>1.5 - 2.25 kg</item>
+        <item>3 - 5 kg</item>
+        <item>2 - 3 kg</item>
+        <item>2 - 2.75 kg</item>
+        <item>2.75 - 3.75 kg</item>
+        <item>1 - 1.5 kg</item>
+        <item>1 - 2 kg</item>
+        <item>2 - 3 kg</item>
+        <item>1- 2 kg</item>
+        <item>1 - 2 kg</item>
+        <item>1.5 - 2 kg</item>
+        <item>2.5 - 3 kg</item>
+        <item>1.5 - 2.5 kg</item>
+        <item>3 - 6 kg</item>
+        <item>2.75 - 3.5 kg</item>
+        <item>2 - 2.5 kg</item>
+        <item>1.5 - 2 kg</item>
+        <item>1.25 - 2 kg</item>
+        <item>3.5 - 7 kg</item>
+        <item>2 - 3 kg</item>
+        <item>5.5 - 7 kg </item>
+        <item>2 - 3 kg</item>
+
+    </string-array>
+
+    <string-array name="staple">
+        <item>7 - 10 cm</item>
+        <item>5 - 10 cm</item>
+        <item>5 - 12 cm </item>
+        <item>4 - 7 cm</item>
+        <item>8 - 14 cm</item>
+        <item>6 - 10 cm</item>
+        <item>15 - 30 cm</item>
+        <item>7 - 13 cm</item>
+        <item>8 - 15 cm</item>
+        <item>10 - 15 cm</item>
+        <item>6 - 12 cm</item>
+        <item>8 - 12 cm</item>
+        <item>8 - 14 cm</item>
+        <item>4 - 7 cm</item>
+        <item>6 - 12 cm</item>
+        <item>6 - 12 cm</item>
+        <item>4 - 6 cm</item>
+        <item>8 - 12 cm</item>
+        <item>5 - 8 cm</item>
+        <item>15 - 25 cm</item>
+        <item>13 - 20 cm</item>
+        <item>8 - 10 cm</item>
+        <item>10 - 15 cm</item>
+        <item>20 - 25 cm</item>
+        <item>5 - 8 cm</item>
+        <item>8 - 10 cm</item>
+        <item>8 - 12 cm</item>
+        <item>10 - 15 cm</item>
+        <item>15 - 20 cm</item>
+        <item>8 - 15 cm</item>
+        <item>8 - 14 cm</item>
+        <item>5 - 8 cm</item>
+        <item>5 - 15 cm</item>
+        <item>10 - 20 cm</item>
+        <item>8 - 14 cm</item>
+        <item>5 - 10 cm</item>
+        <item>8 - 15 cm</item>
+        <item>6 - 12 cm</item>
+        <item>20 - 25 cm</item>
+        <item>15 - 30 cm</item>
+        <item>6 - 10 cm</item>
+        <item>6 - 12 cm</item>
+        <item>10 - 15 cm</item>
+        <item>6 - 12 cm</item>
+        <item>12 - 25 cm</item>
+        <item>10 - 20 cm</item>
+        <item>10 - 22 cm</item>
+        <item>10 - 18 cm</item>
+        <item>7 - 10 cm</item>
+        <item>6 - 12 cm</item>
+        <item>4 - 8 cm</item>
+        <item>6 - 10 cm</item>
+        <item>5 - 9 cm</item>
+        <item>10 - 17 cm</item>
+        <item>15 - 30 cm</item>
+        <item>5 - 8 cm</item>
+        <item>12 - 24 cm</item>
+        <item>5 - 10 cm</item>
+        <item>6 - 12 cm</item>
+        <item>6 - 10 cm</item>
+        <item>6 - 12 cm</item>
+        <item>5 - 10 cm</item>
+        <item>4 - 6 cm</item>
+        <item>5 - 10 cm</item>
+        <item>10 - 20 cm</item>
+        <item>15 - 30 cm</item>
+        <item>7 - 14 cm</item>
+        <item>4 - 7 cm</item>
+        <item>7 - 12 cm</item>
+        <item>5 - 15 cm </item>
+        <item>15 - 30 cm</item>
+        <item>10 - 15 cm</item>
+        <item>15 - 20 cm</item>
+        <item>7 - 15 cm</item>
+
+    </string-array>
+
+    <string-array name="micron">
+        <item>33 - 35</item>
+        <item>33+</item>
+        <item>31 - 34</item>
+        <item>30 - 32</item>
+        <item>32 - 33</item>
+        <item>32 - 35</item>
+        <item>35+</item>
+        <item>32 - 34.5</item>
+        <item>26 - 26.5</item>
+        <item>32.5 - 35</item>
+        <item>35+</item>
+        <item>30.5 - 33</item>
+        <item>32 - 34.5</item>
+        <item>30 - 32</item>
+        <item>32 - 33.5</item>
+        <item>30 - 31.5</item>
+        <item>29 - 30.5</item>
+        <item>30.5 - 33</item>
+        <item>29.5 - 31.5</item>
+        <item>35 - 38</item>
+        <item>35+</item>
+        <item>31 - 33</item>
+        <item>34 - 35</item>
+        <item>40 - 42</item>
+        <item>30 - 32</item>
+        <item>33 - 34</item>
+        <item>33+</item>
+        <item>33 - 34.5</item>
+        <item>40 - 42</item>
+        <item>32.5 - 35</item>
+        <item>32.5 - 35</item>
+        <item>31 - 33</item>
+        <item>35+</item>
+        <item>35+</item>
+        <item>31.5 - 33</item>
+        <item>30 - 32</item>
+        <item>32 - 34</item>
+        <item>31.5 - 33</item>
+        <item>35 - 38</item>
+        <item>35 - 38</item>
+        <item>31.4 - 34</item>
+        <item>31 - 34</item>
+        <item>32 - 33</item>
+        <item>30 - 31.5</item>
+        <item>33.5 - 35</item>
+        <item>30 - 32.5</item>
+        <item>30.5 - 33</item>
+        <item>29 - 32</item>
+        <item>32 - 34</item>
+        <item>30 - 33</item>
+        <item>32 - 35</item>
+        <item>31.5 - 33.5</item>
+        <item>31 - 45</item>
+        <item>31.4 - 34</item>
+        <item>35+</item>
+        <item>30 -32</item>
+        <item>31 - 33</item>
+        <item>30 - 31</item>
+        <item>30 - 31.5</item>
+        <item>31 - 33</item>
+        <item>30 - 31.5</item>
+        <item>35+</item>
+        <item>29 - 30.5</item>
+        <item>31 - 34</item>
+        <item>35+</item>
+        <item>32.5 - 34</item>
+        <item>31 - 34.5</item>
+        <item>30 - 32</item>
+        <item>32 - 33</item>
+        <item>35+</item>
+        <item>32.5 - 34</item>
+        <item>32 - 33</item>
+        <item>38 - 42</item>
+        <item>31 - 34</item>
+
+    </string-array>
+
+    <string-array name="gallery">
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/badger_welsh_mountain.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/balwen.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/beltex.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/berrichon_du_cher.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/beulah_speckled_face.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/black_welsh_mountain.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/blackface.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/bleu_du_maine.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/blue_faced_leicester.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/border_leicester.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/boreray.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/brecknock_hill_cheviot.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/british_milksheep.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/british_rouge.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/cambridge.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/castlemilk_moorit.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/charollais.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/cheviot.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/clun_forest.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/cotswold.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/dalesbred.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/derbyshire_gritstone.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/devon_closewool.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/devon_cornwall_longwool.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/dorset_down.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/dorset_horn_poll_dorset.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/exmoor_horn.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/friesland.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/greyface_dartmoor.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/halfbred-scotch.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/halfbred-welsh.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/hampshire_down.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/hebridean.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/herdwick.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/hill_radnor.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/ile_de_france.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/jacob.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/kerry_hill.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/leicester_longwool.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/lincoln_longwool.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/llanwenog.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/lleyn.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/lonk.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/manx_loaghtan.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/masham.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/mule-north_of_england.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/mule-scotch.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/mule-welsh.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/norfolk_horn.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/north_country_cheviot.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/north_ronaldsay.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/oxford_down.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/portland.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/romney.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/rough_fell.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/ryeland.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/scottish_greyface.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/shetland.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/shetland_coloured.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/shropshire.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/soay.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/south_wales_mountain.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/southdown.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/suffolk.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/swaledale.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/teeswater.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/texel.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/vendeen.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/welsh_hill_speckled_face.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/welsh_mountain.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/wensleydale.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/white_faced_woodland.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/whiteface_dartmoor.jpg</item>
+        <item>http://proofandconcept.co.uk/bsb/data/gallery/zwartbles.jpg</item>
+    </string-array>
+
+
+
+
+</resources>

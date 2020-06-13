@@ -1,0 +1,26 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_margin">10dp</dimen>
+    <dimen name="activity_margin_left">26dp</dimen>
+    <dimen name="thumbnail">46dp</dimen>
+    <dimen name="row_padding">8dp</dimen>
+    <dimen name="heading">16dp</dimen>
+    <dimen name="contact_number">12dp</dimen>
+    <dimen name="radius">16dp</dimen>
+    <dimen name="margin_card">8dp</dimen>
+    <dimen name="item_radius">9dp</dimen>
+    <dimen name="margin_card_left_right">16dp</dimen>
+
+    <dimen name="gallery_body">16dp</dimen>
+    <dimen name="gallery_heading">20dp</dimen>
+
+    <!-- gallery dimentions -->
+
+    <dimen name="info_margin">16dp</dimen>
+    <dimen name="info_padding">6dp</dimen>
+    <dimen name="info_padding_left">10dp</dimen>
+    <dimen name="info_separator">6dp</dimen>
+    <dimen name="info_tile_margin">24dp</dimen>
+
+
+</resources>

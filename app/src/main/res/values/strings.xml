@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">British Sheep Breeds</string>
+    <string name="all">All</string>
+    <string name="colour">Colour</string>
+    <string name="type">Type</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name…</string>
+    <string name="routes_sort">sort</string>
+
+
+</resources>

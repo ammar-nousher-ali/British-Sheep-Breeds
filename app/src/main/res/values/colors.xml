@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#109a76</color>
+    <color name="colorPrimaryDark">#109a76</color>
+    <color name="colorPrimaryLight">#a3d5af</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="background">#99d3c5</color>
+    <color name ="list_item">#faf1e2</color>
+    <color name="second_list_item">#313e51</color>
+    <color name="text_main">#717171</color>
+    <color name="darker_brown">#e7e0c3</color>
+    <color name="darkest_brown">#b9ac8a</color>
+    <color name="white">#FFFFFF</color>
+
+<!--project colors-->
+<!--    9,78,59	#94E3B-->
+<!--    78,186,160	#4EBAA0-->
+<!--    250,241,225	#FAF1E1-->
+<!--    231,224,196	#E7E0C4-->
+<!--    12,105,113	#C6971-->
+
+    <color name="dialogDarkGreen">#094E3B</color>
+    <color name="dialogSlighltyGreen">#0C6971</color>
+    <color name="dialogLightGreen">#4EBA80</color>
+    <color name="dialoglightCream">#FAF1E1</color>
+    <color name="dialogDarkCream">#E7E0C4</color>
+
+</resources>
